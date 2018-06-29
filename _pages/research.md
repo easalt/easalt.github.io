@@ -15,8 +15,7 @@ Saltzman, E. "The Welfare Implications of Risk Adjustment in Imperfectly
 Competitive Markets." (job market paper)
 
 Saltzman, E. ["Demand for Health Insurance: Evidence from the California
-andWashington ACA Exchanges."](https://www.supremecourt.gov/opinions/14pdf/14-114_qol1.pdf)"Demand for Health Insurance: Evidence from the California
-andWashington ACA Exchanges." (revise and resubmit, Journal of Health Economics)
+andWashington ACA Exchanges."](/files/Welfare Implications of Risk Adjustment.pdf) (revise and resubmit, Journal of Health Economics)
 
 Publications
 ======
