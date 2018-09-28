@@ -11,6 +11,9 @@ redirect_from:
 
 Working Papers
 ======
+
+**Saltzman, E.** ["Managing Adverse Selection in Health Insurance Markets: Underinsurance vs. Underenrollment."]("/files/Managing Adverse Selection.pdf")
+
 **Saltzman, E.** ["The Welfare Implications of Risk Adjustment in Imperfectly
 Competitive Markets."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3192015) (job market paper)
 
