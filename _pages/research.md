@@ -14,9 +14,6 @@ Working Papers
 
 **Saltzman, E.** ["Managing Adverse Selection in Health Insurance Markets: Underinsurance vs. Underenrollment."](https://github.com/easalt/easalt.github.io/blob/master/files/Managing%20Adverse%20Selection.pdf)
 
-**Saltzman, E.** ["The Welfare Implications of Risk Adjustment in Imperfectly
-Competitive Markets."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3192015) (job market paper)
-
 **Saltzman, E.** ["Demand for Health Insurance: Evidence from the California
 and Washington ACA Exchanges."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189548) (revise and resubmit, Journal of Health Economics)
 
