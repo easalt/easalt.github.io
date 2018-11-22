@@ -14,11 +14,12 @@ Working Papers
 
 **Saltzman, E.** ["Managing Adverse Selection in Health Insurance Markets: Underinsurance vs. Underenrollment."](https://github.com/easalt/easalt.github.io/blob/master/files/Managing%20Adverse%20Selection.pdf)
 
-**Saltzman, E.** ["Demand for Health Insurance: Evidence from the California
-and Washington ACA Exchanges."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189548) (revise and resubmit, Journal of Health Economics)
-
-Publications
+Accepted and Published Papers 
 ======
+
+**Saltzman, E.** ["Demand for Health Insurance: Evidence from the California
+and Washington ACA Exchanges."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189548) (accepted, Journal of Health Economics)
+
 Gonzales, D., Kaplan, J., **Saltzman, E.**, Winkelman, Z., and Woods, D. "Cloud-
 Trust A Cloud Security Assessment Model for Infrastructure As a Service (IaaS)
 Clouds." *IEEE Transactions on Cloud Computing*, 5(3): 523-536, 2016.
