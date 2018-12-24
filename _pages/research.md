@@ -12,7 +12,7 @@ redirect_from:
 Working Papers
 ======
 
-**Saltzman, E.** ["Managing Adverse Selection in Health Insurance Markets: Underinsurance vs. Underenrollment."](https://github.com/easalt/easalt.github.io/blob/master/files/Managing%20Adverse%20Selection.pdf)
+**Saltzman, E.** ["Managing Adverse Selection in Health Insurance Markets: Underinsurance vs. Underenrollment."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3256867)
 
 Accepted and Published Papers 
 ======
