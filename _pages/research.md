@@ -18,7 +18,7 @@ Accepted and Published Papers
 ======
 
 **Saltzman, E.** ["Demand for Health Insurance: Evidence from the California
-and Washington ACA Exchanges."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189548) (accepted, *Journal of Health Economics*)
+and Washington ACA Exchanges."](https://doi.org/10.1016/j.jhealeco.2018.11.004) *Journal of Health Economics*, 63: 197-222, 2019.
 
 Gonzales, D., Kaplan, J., **Saltzman, E.**, Winkelman, Z., and Woods, D. "Cloud-
 Trust A Cloud Security Assessment Model for Infrastructure As a Service (IaaS)
