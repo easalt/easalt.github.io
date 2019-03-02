@@ -12,7 +12,7 @@ redirect_from:
 Working Papers
 ======
 
-**Saltzman, E.** ["Managing Adverse Selection in Health Insurance Markets: Underinsurance vs. Underenrollment."](/files/Adverse Selection Tradeoff Paper.pdf)
+**Saltzman, E.** ["Managing Adverse Selection: Underinsurance vs. Underenrollment."](/files/Adverse Selection Tradeoff Paper.pdf)
 
 Accepted and Published Papers 
 ======
