@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Fall 2018 (Emory University)
+Fall 2018 - Present (Emory University)
 ======
 ECON 201: Intermediate Microeconomics
 
