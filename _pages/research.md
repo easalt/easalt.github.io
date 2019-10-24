@@ -12,7 +12,7 @@ redirect_from:
 Working Papers
 ======
 
-**Saltzman, E.** ["Managing Adverse Selection: Underinsurance vs. Underenrollment."](/files/Adverse Selection Tradeoff Paper.pdf)
+**Saltzman, E.** ["Managing Adverse Selection: Underinsurance vs. Underenrollment."](/files/Adverse Selection Tradeoff Paper.pdf) (Revise and Resubmit, The RAND Journal of Economics)
 
 Accepted and Published Papers 
 ======
