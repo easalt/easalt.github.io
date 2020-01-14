@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Spring 2020 (Emory University)
+======
+ECON 777: Empirical Industrial Organization
+
 Fall 2018 - Present (Emory University)
 ======
 ECON 201: Intermediate Microeconomics
-
-Spring 2012 (George Mason University)
-======
-OM 320: Supply Chain Management
