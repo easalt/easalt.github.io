@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Working Papers
-======
 
-**Saltzman, E.** ["Managing Adverse Selection: Underinsurance vs. Underenrollment."](/files/Adverse Selection Tradeoff Paper.pdf) (Revise and Resubmit, The RAND Journal of Economics)
+
+
 
 Accepted and Published Papers 
 ======
+
+**Saltzman, E.** ["Managing Adverse Selection: Underinsurance vs. Underenrollment."](/files/Adverse Selection Tradeoff Paper.pdf) (accepted, *The RAND Journal of Economics*)
 
 **Saltzman, E.** ["Demand for Health Insurance: Evidence from the California
 and Washington ACA Exchanges."](https://doi.org/10.1016/j.jhealeco.2018.11.004) *Journal of Health Economics*, 63: 197-222, 2019.
