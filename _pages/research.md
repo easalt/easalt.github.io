@@ -10,10 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-
-
-
-Accepted and Published Papers 
+Economics Papers 
 ======
 
 **Saltzman, E.** ["Managing Adverse Selection: Underinsurance vs. Underenrollment."](/files/Adverse Selection Tradeoff Paper.pdf) (accepted, *The RAND Journal of Economics*)
@@ -21,9 +18,8 @@ Accepted and Published Papers
 **Saltzman, E.** ["Demand for Health Insurance: Evidence from the California
 and Washington ACA Exchanges."](https://doi.org/10.1016/j.jhealeco.2018.11.004) *Journal of Health Economics*, 63: 197-222, 2019.
 
-Gonzales, D., Kaplan, J., **Saltzman, E.**, Winkelman, Z., and Woods, D. "Cloud-
-Trust A Cloud Security Assessment Model for Infrastructure As a Service (IaaS)
-Clouds." *IEEE Transactions on Cloud Computing*, 5(3): 523-536, 2016.
+Health Policy Papers 
+======
 
 **Saltzman, E.**, Eibner, C., and Enthoven, A. "Improving the Affordable Care
 Act: An Assessment of Policy Options for Providing Subsidies." *Health Affairs*,
@@ -32,6 +28,13 @@ Act: An Assessment of Policy Options for Providing Subsidies." *Health Affairs*,
 Taylor, E., **Saltzman, E.**, Bauhoff, S., Pacula, R., and Eibner, C. "More Choice
 in Health Insurance Marketplaces May Reduce The Value of Subsidies Available
 to Low-Income Enrollees." *Health Affairs*, 34(1): 104-110, 2015.
+
+Other Papers
+======
+
+Gonzales, D., Kaplan, J., **Saltzman, E.**, Winkelman, Z., and Woods, D. "Cloud-
+Trust A Cloud Security Assessment Model for Infrastructure As a Service (IaaS)
+Clouds." *IEEE Transactions on Cloud Computing*, 5(3): 523-536, 2016.
 
 **Saltzman, E.**, Drew, J., Leemis, L., and Henderson, S. "Simulating Multivariate
 Nonhomogeneous Poisson Processes Using Projections." *ACM Transactions on
