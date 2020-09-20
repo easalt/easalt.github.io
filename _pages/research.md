@@ -15,6 +15,8 @@ Economics Papers
 
 **Saltzman, E.** ["Managing Adverse Selection: Underinsurance vs. Underenrollment."](/files/Adverse Selection Tradeoff Paper.pdf) (accepted, *The RAND Journal of Economics*)
 
+Media: [*New York Times*](https://www.nytimes.com/2020/09/18/upshot/obamacare-mandate-republicans.html)
+
 **Saltzman, E.** ["Demand for Health Insurance: Evidence from the California
 and Washington ACA Exchanges."](https://doi.org/10.1016/j.jhealeco.2018.11.004) *Journal of Health Economics*, 63: 197-222, 2019.
 
