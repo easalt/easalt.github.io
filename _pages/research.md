@@ -12,7 +12,7 @@ redirect_from:
 Working Papers 
 ======
 
-Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market: The Case of the ACA Exchanges."](/files/Firm Learning Paper.pdf)
+Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market: The Case of the ACA Exchanges."](/files/Firm Learning Paper.pdf) (under review)
 
 Economics Papers 
 ======
