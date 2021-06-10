@@ -17,7 +17,7 @@ Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market: The Ca
 Economics Papers 
 ======
 
-**Saltzman, E.** ["Managing Adverse Selection: Underinsurance vs. Underenrollment."](https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12372) *The RAND Journal of Economics*, 52 (2).
+**Saltzman, E.** ["Managing Adverse Selection: Underinsurance vs. Underenrollment."](https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12372) *The RAND Journal of Economics*, 52(2): 359-381, 2021.
 
 Media coverage: [*New York Times*](https://www.nytimes.com/2020/09/18/upshot/obamacare-mandate-republicans.html)
 
