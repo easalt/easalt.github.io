@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Spring 2020 (Emory University)
+Intermediate Microeconomics (ECON 201, Undergraduate Class)
 ======
-ECON 777: Empirical Industrial Organization
+Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020, Spring 2021
 
-Fall 2018 - Present (Emory University)
+Empirical Industrial Organization (ECON 777, PhD Class)
 ======
-ECON 201: Intermediate Microeconomics
+Spring 2020
