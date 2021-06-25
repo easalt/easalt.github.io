@@ -14,7 +14,7 @@ Working Papers
 
 Lucarelli, C. and **Saltzman, E.** "Firm Learning in a Selection Market: The Case of the ACA Exchanges." (under review)
 
-[comment]: <> (/files/Firm Learning Paper.pdf) - put brackets around paper title when you want to insert hyperlink
+[comment]: <> (/files/Firm Learning Paper.pdf - put brackets around paper title when you want to insert hyperlink) 
 
 Economics Papers 
 ======
