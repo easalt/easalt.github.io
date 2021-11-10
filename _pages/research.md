@@ -14,7 +14,7 @@ Working Papers
 
 **Saltzman, E.**, Swanson, A., and Polsky, D. ["Inertia, Market Power, and Adverse Selection in Health Insurance: Evidence from the ACA Exchanges."](https://www.nber.org/system/files/working_papers/w29097/w29097.pdf) (under review)
 
-Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market: The Case of the ACA Exchanges."] (/files/Firm Learning Paper Nov 2021.pdf) (under review)
+Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market."] (/files/Firm Learning Paper Nov 2021.pdf) (under review)
 
 [comment]: <> (/files/Firm Learning Paper Nov 2021.pdf - put brackets around paper title when you want to insert hyperlink) 
 
