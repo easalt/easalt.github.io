@@ -12,7 +12,7 @@ redirect_from:
 Working Papers 
 ======
 
-**Saltzman, E.**, Swanson, A., and Polsky, D. ["Inertia, Market Power, and Adverse Selection in Health Insurance: Evidence from the ACA Exchanges."](https://www.nber.org/system/files/working_papers/w29097/w29097.pdf) (under review)
+**Saltzman, E.**, Swanson, A., and Polsky, D. ["Inertia, Market Power, and Adverse Selection in Health Insurance: Evidence from the ACA Exchanges."](https://www.nber.org/system/files/working_papers/w29097/w29097.pdf) (revisions requested, Review of Economics and Statistics)
 
 Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market."](https://github.com/easalt/easalt.github.io/blob/master/files/Firm%20Learning%20Paper%20Nov%202021.pdf) (under review)
 
