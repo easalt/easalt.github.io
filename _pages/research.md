@@ -16,7 +16,7 @@ Working Papers
 
 Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market."](https://github.com/easalt/easalt.github.io/blob/master/files/Firm%20Learning%20Paper%20July%202022.pdf) (under review)
 
-**Saltzman, E.** ["What Does a Public Option Do?  Evidence from California."](https://github.com/easalt/easalt.github.io/blob/master/files/Public%20Option%20Paper.pdf) (under review) 
+**Saltzman, E.** ["What Does a Public Option Do?  Evidence from California."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4346308) (under review) 
 
 [comment]: <> (/files/Firm Learning Paper Nov 2021.pdf - put brackets around paper title when you want to insert hyperlink) 
 
