@@ -14,7 +14,7 @@ Working Papers
 
 **Saltzman, E.**, Swanson, A., and Polsky, D. ["Inertia, Market Power, and Adverse Selection in Health Insurance: Evidence from the ACA Exchanges."](https://www.nber.org/system/files/working_papers/w29097/w29097.pdf) (revisions requested, Review of Economics and Statistics)
 
-Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market."](https://github.com/easalt/easalt.github.io/blob/master/files/Firm%20Learning%20Paper%20July%202022.pdf) (under review)
+Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market."](https://github.com/easalt/easalt.github.io/blob/master/files/Firm%20Learning%20Paper.pdf) (under review)
 
 **Saltzman, E.** ["What Does a Public Option Do?  Evidence from California."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4346308) (under review) 
 
