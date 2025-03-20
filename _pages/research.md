@@ -12,8 +12,6 @@ redirect_from:
 Working Papers 
 ======
 
-**Saltzman, E.**, Swanson, A., and Polsky, D. ["Inertia, Market Power, and Adverse Selection in Health Insurance: Evidence from the ACA Exchanges."](https://www.nber.org/system/files/working_papers/w29097/w29097.pdf) (accepted, Review of Economics and Statistics)
-
 Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607258) (under review)
 
 **Saltzman, E.** ["What Does a Public Option Do?  Evidence from California."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4346308) (revisions requested, Journal of Political Economy Microeconomics) 
@@ -22,6 +20,8 @@ Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market."](http
 
 Economics Papers 
 ======
+
+**Saltzman, E.**, Swanson, A., and Polsky, D. ["Inertia, Market Power, and Adverse Selection in Health Insurance: Evidence from the ACA Exchanges."](https://www.nber.org/system/files/working_papers/w29097/w29097.pdf) *The Review of Economics and Statistics*, accepted.
 
 **Saltzman, E.** ["Managing Adverse Selection: Underinsurance vs. Underenrollment."](https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12372) *The RAND Journal of Economics*, 52(2): 359-381, 2021.
 
