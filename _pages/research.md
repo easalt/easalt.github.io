@@ -12,7 +12,7 @@ redirect_from:
 Working Papers 
 ======
 
-Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607258) (under review)
+Lucarelli, C. and **Saltzman, E.** ["Firm Learning in a Selection Market."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607258) (revisions requested, Journal of Risk and Insurance)
 
 **Saltzman, E.** ["What Does a Public Option Do?  Evidence from California."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4346308) (revisions requested, Journal of Political Economy Microeconomics) 
 
